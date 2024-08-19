@@ -1,11 +1,11 @@
-# front-end
+# Tutorial of how to run this code
 
 ## Project setup 
 ```
 npm install
 ```
 
-### running front-end folder cmd with this code
+### Running front-end folder cmd with this code
 ```
 npm run serve
 ```
