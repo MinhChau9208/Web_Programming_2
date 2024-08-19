@@ -1,18 +1,18 @@
 # front-end
 
-## Project setup
+## Project setup 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### running front-end folder cmd with this code
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Running server folder cmd with this code
 ```
-npm run build
+npm run start
 ```
 
 ### Customize configuration
